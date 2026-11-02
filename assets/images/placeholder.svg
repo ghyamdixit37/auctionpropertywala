@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Property image placeholder">
+  <rect width="1200" height="800" fill="#EDE7DC"/>
+  <rect y="560" width="1200" height="240" fill="#A9B5A0" opacity=".55"/>
+  <g fill="none" stroke="#35483D" stroke-width="3" opacity=".75">
+    <path d="M300 560V330l300-200 300 200v230"/>
+    <path d="M520 560V400h160v160"/>
+    <path d="M360 400h80M760 400h80M360 470h80M760 470h80"/>
+  </g>
+  <line x1="200" y1="560" x2="1000" y2="560" stroke="#B8A078" stroke-width="3"/>
+</svg>
